@@ -69,7 +69,7 @@ export const portafolioData = [
 	},
 	{
 		imgSrc: '/img/projetos/developercardoso.png',
-		title: 'Developer Cardoso',
+		title: 'Guilherme Cardoso',
 		skills: ['AstroJS', 'StyledComponents'],
 		descripcion:
 			' Site desenvolvido para estudos do AstroJS.',
