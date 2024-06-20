@@ -27,7 +27,7 @@ export const portafolioData = [
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '/img/projetos/sodamnbiright.png',
+		imgSrc: '/img/projetos/sodamnbright.png',
 		title: 'SodamnBright',
 		skills: ['VueJS', 'Bootstrap'],
 		descripcion:
@@ -68,7 +68,7 @@ export const portafolioData = [
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: 'https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2021/06/copy-of-the-6-best-restaurant-website-templates-1.png',
+		imgSrc: '/img/projetos/developercardoso.png',
 		title: 'Developer Cardoso',
 		skills: ['AstroJS', 'StyledComponents'],
 		descripcion:
