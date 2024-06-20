@@ -10,6 +10,7 @@ import Card from './card-portfolio/CardPortfolio.astro';
 >
 	<div class="portfolio__container">
 		<Title contenido="Projetos" />
+		<br>
 		<div class="portfolio__elements">
 			{getPortafolioData.map((props) => <Card {...props} />)}
 		</div>
