@@ -31,7 +31,7 @@ export const portafolioData = [
 		title: 'SodamnBright',
 		skills: ['VueJS', 'Bootstrap'],
 		descripcion:
-			' Site da banda So Damn Bright.',
+			'Banda So Damn Bright.',
 		demoURL: 'https://sodamnbrightnew.vercel.app/',
 		repoURL: '',
 		anim: 'fade-up',
@@ -49,17 +49,17 @@ export const portafolioData = [
 	},
 	{
 		imgSrc: '/img/projetos/yggdrasil.png',
-		title: 'Yggdrasil Green Engenieer',
+		title: 'Yggdrasil Green Engineering',
 		skills: ['Javascript', 'CSS', 'Bootstrap'],
 		descripcion:
-			'Site desenvolvido para a empresa Yggdrasil Green Engenieer.',
+			'Site desenvolvido para a empresaYggdrasil Green Engineering.',
 		demoURL: 'https://yggdrasil-green.vercel.app/',
 		repoURL: '',
 		anim: 'fade-left',
 	},
 	{
 		imgSrc: '/img/projetos/yumusick.png',
-		title: 'Site da Yumusick',
+		title: 'Yumusick',
 		skills: ['React', 'CSS'],
 		descripcion:
 			'Site da Yumusick.',
